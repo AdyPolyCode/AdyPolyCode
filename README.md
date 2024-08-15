@@ -27,18 +27,18 @@
 <br>
 <div align="center">
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adypolycode&show_icons=true&locale=en&layout=compact" alt="adypolycode" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adypolycode&theme=dark&show_icons=true&locale=en&layout=compact" alt="adypolycode" />
 </p>
 </div>
 
 <div align="center">&nbsp;
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=adypolycode&show_icons=true&locale=en" alt="adypolycode" />
+<img src="https://github-readme-stats.vercel.app/api?username=adypolycode&theme=dark&show_icons=true&locale=en" alt="adypolycode" />
 </p>
 </div>
 
 <div align="center">
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adypolycode&" alt="adypolycode" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adypolycode&theme=dark&" alt="adypolycode" />
 </p>
 </div>
